@@ -105,8 +105,8 @@ int main() {
     enqueueArray("Adinne Islamiyati");
     enqueueArray("Ramadanti Indah Safitri");
     enqueueArray("Muhammad Izzat Jauhari");
-    enqueueArray("Iqbal Khadavi");
-    enqueueArray("Iqbal Khadavi");
+    enqueueArray("Muhammad Iqbal Khadavi");
+    enqueueArray("Cahyo Bagus Saputro");
     viewArray();
 
     dequeueArray();
